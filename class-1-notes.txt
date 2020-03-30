@@ -1,0 +1,28 @@
+// Anotações da aula 1
+// https://www.alura.com.br/quarentenadev/aula01-javascript?utm_campaign=alura__aula_01_-_quarentenadev&utm_medium=email&utm_source=RD+Station
+
+// Calculando dias de vida e exibindo uma pop up na tela
+alert(31 * 365) 
+
+// Exibindo uma mensagem de texto em uma pop up na tela
+alert("Olá meu nome é Mariana")
+
+// Juntando texto e uma operação matemática
+alert("Olá meu nome é Mariana e eu tenho " + 31 * 365 + " dias de vida")
+
+// Exercício Cálculo das batidas (multiplicação)
+((((75 * 60) * 24) * 365) * 31)
+
+// Exercício cálculo do preço de cada galinha (divisão)
+300 / 15
+
+// Exercício cálculo quantidade de balas da Maria (adição)
+19 + 45
+
+// Exercício cálculo da área da circunferência (multiplicação)
+3.14 * 2 * 2
+
+
+
+
+
