@@ -1,0 +1,24 @@
+// Anotações aula 2
+// https://www.alura.com.br/quarentenadev/aula02-variaveis?utm_campaign=alura__aula_02_-_quarentenadev&utm_medium=email&utm_source=RD+Station
+
+// Função coletar dados
+prompt("Qual a sua idade?")
+
+// Função para aparecer a mensagem que quero escrever na tela da Web
+document.write ( "oi")
+
+// Atribuir um valor a uma variável e utilizando
+suaIdade = 31
+document.write(suaIdade * 365 , " dias") // suaIdade não é colocado entre aspas pois queremos usar a variável suaidade e colocando aspas se tornará texto.
+
+// Cálculo do meu IMC
+48 / (1.60 * 1.60)
+18.749999999999996
+
+// Média de idade família Guilherme
+(30 + 20 + 15 + 10) / 4
+18.75
+
+// Idade de quem nasceu em 1940
+(2020 - 1940)
+80
